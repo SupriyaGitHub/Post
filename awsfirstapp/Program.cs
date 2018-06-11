@@ -19,6 +19,7 @@ namespace awsfirstapp
 	
 	// this is my second change in the same file throught master 
 	//branch
+	// to test the merge conflict
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
