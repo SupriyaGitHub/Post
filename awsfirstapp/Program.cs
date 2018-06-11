@@ -17,6 +17,8 @@ namespace awsfirstapp
             BuildWebHost(args).Run();
         }
 
+
+	// to test the merge conflict
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
