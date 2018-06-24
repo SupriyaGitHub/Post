@@ -1,0 +1,9 @@
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\bin\Debug\netcoreapp2.0\Fcds.CommonModels.deps.json
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\bin\Debug\netcoreapp2.0\Fcds.CommonModels.dll
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\bin\Debug\netcoreapp2.0\Fcds.CommonModels.pdb
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\obj\Debug\netcoreapp2.0\Fcds.CommonModels.csprojAssemblyReference.cache
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\obj\Debug\netcoreapp2.0\Fcds.CommonModels.csproj.CoreCompileInputs.cache
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\obj\Debug\netcoreapp2.0\Fcds.CommonModels.AssemblyInfoInputs.cache
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\obj\Debug\netcoreapp2.0\Fcds.CommonModels.AssemblyInfo.cs
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\obj\Debug\netcoreapp2.0\Fcds.CommonModels.dll
+G:\POC\FusionLogs\FusionLogPOC\CommonModels\obj\Debug\netcoreapp2.0\Fcds.CommonModels.pdb

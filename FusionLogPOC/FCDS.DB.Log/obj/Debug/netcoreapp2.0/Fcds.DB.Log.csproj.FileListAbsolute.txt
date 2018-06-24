@@ -1,0 +1,8 @@
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\FCDS.DB.Log.deps.json
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\FCDS.DB.Log.dll
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\FCDS.DB.Log.csproj.CoreCompileInputs.cache
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\FCDS.DB.Log.AssemblyInfoInputs.cache
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\FCDS.DB.Log.AssemblyInfo.cs
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\FCDS.DB.Log.pdb
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\FCDS.DB.Log.dll
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\FCDS.DB.Log.pdb

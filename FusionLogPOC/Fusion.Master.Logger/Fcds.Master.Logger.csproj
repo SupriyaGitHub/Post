@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonModels\Fcds.Common.Models.csproj" />
+    <ProjectReference Include="..\FCDS.DB.Log\Fcds.Log.csproj" />
+    <ProjectReference Include="..\Fusion.API.Helper\Fcds.API.Helper.csproj" />
+  </ItemGroup>
+
+</Project>

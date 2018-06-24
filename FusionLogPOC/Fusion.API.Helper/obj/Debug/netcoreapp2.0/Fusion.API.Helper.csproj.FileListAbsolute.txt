@@ -1,0 +1,12 @@
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\bin\Debug\netcoreapp2.0\Fusion.API.Helper.deps.json
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\bin\Debug\netcoreapp2.0\Fusion.API.Helper.dll
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\obj\Debug\netcoreapp2.0\Fusion.API.Helper.csproj.CoreCompileInputs.cache
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\obj\Debug\netcoreapp2.0\Fusion.API.Helper.AssemblyInfoInputs.cache
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\obj\Debug\netcoreapp2.0\Fusion.API.Helper.AssemblyInfo.cs
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\bin\Debug\netcoreapp2.0\Fusion.API.Helper.pdb
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\bin\Debug\netcoreapp2.0\CommonModels.dll
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\bin\Debug\netcoreapp2.0\CommonModels.pdb
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\obj\Debug\netcoreapp2.0\Fusion.API.Helper.csprojAssemblyReference.cache
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\obj\Debug\netcoreapp2.0\Fusion.API.Helper.csproj.CopyComplete
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\obj\Debug\netcoreapp2.0\Fusion.API.Helper.dll
+G:\POC\FusionLogs\FusionLogPOC\Fusion.API.Helper\obj\Debug\netcoreapp2.0\Fusion.API.Helper.pdb

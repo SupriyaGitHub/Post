@@ -1,0 +1,11 @@
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\Fcds.Logger.deps.json
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\Fcds.Logger.dll
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\Fcds.API.Helper.dll
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\Fcds.Common.Models.dll
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\Fcds.Common.Models.pdb
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\bin\Debug\netcoreapp2.0\Fcds.API.Helper.pdb
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\Fcds.Logger.csprojAssemblyReference.cache
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\Fcds.Logger.csproj.CoreCompileInputs.cache
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\Fcds.Logger.AssemblyInfoInputs.cache
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\Fcds.Logger.AssemblyInfo.cs
+G:\POC\FusionLogs\FusionLogPOC\FCDS.DB.Log\obj\Debug\netcoreapp2.0\Fcds.Logger.csproj.CopyComplete
